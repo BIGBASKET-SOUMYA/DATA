@@ -2,4 +2,5 @@ students
 teachers
 people
 humman
+animal
 
